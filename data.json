@@ -1,0 +1,30 @@
+{
+   "ID":"5feeb646-3715-4504-acc4-4b3da14dfab1",
+   "Message":"",
+   "Global":{
+      "NewConfirmed":244597,
+      "TotalConfirmed":185296480,
+      "NewDeaths":4953,
+      "TotalDeaths":4007984,
+      "NewRecovered":144051,
+      "TotalRecovered":122095665,
+      "Date":"2021-07-09T16:20:08.732Z"
+   },
+   "Countries":{
+      "ID":"9eb19306-48e5-47ff-953c-52c35965c278",
+      "Country":"Argentina",
+      "CountryCode":"AR",
+      "Slug":"argentina",
+      "NewConfirmed":0,
+      "TotalConfirmed":4613019,
+      "NewDeaths":0,
+      "TotalDeaths":97904,
+      "NewRecovered":0,
+      "TotalRecovered":4226694,
+      "Date":"2021-07-09T16:20:08.732Z",
+      "Premium":{
+         
+      }
+   },
+   "Date":"2021-07-09T16:20:08.732Z"
+}
